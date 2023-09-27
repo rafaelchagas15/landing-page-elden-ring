@@ -1,0 +1,4 @@
+git remote add origin https://github.com/rafaelchagas15/landing-page-elden-ring.git
+git branch -M main
+git push -u origin main
+git clone
